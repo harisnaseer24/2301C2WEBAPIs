@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "_2301C2WebAPIs.Controllers.ManufacturerController",
+    "Method": "GetManufacturers",
+    "RelativePath": "api/Manufacturer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2301C2WebAPIs.Controllers.ManufacturerController",
+    "Method": "AddManufacturer",
+    "RelativePath": "api/Manufacturer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "_2301C2WebAPIs.Models.DTOs.ManufacturerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2301C2WebAPIs.Controllers.ManufacturerController",
+    "Method": "EditManufacturer",
+    "RelativePath": "api/Manufacturer",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "data",
+        "Type": "_2301C2WebAPIs.Models.DTOs.ManufacturerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
