@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsumingWebAPIs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65405ec944b818e5e6226bdb70fc914c8a172f6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsumingWebAPIs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsumingWebAPIs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

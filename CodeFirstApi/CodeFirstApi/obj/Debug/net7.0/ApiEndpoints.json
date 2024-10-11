@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "CodeFirstApi.Controllers.BrandController",
+    "Method": "GetBrands",
+    "RelativePath": "api/Brand",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CodeFirstApi.Controllers.ProductController",
     "Method": "GetProducts",
     "RelativePath": "api/Product",
